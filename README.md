@@ -1,26 +1,8 @@
 # A New Project Template
 
-Here is one way to organize your project folders:
+See `master` branch for details.
 
-	/code
-	/data
-	/docs
-	/output
+The `advanced` branch contains additional directories that you may consider
+using.
 
-	README.md
-	(reports)
-	(shell script or similar describing all code)
-	
-
-Originally, this was meant for data science'y projects using mostly R and/or
-Python, but do what you want!
-
-
-# Advanced
-
-If you want more directories, see the `advanced` branch.
-
-
-# Inspirations/Resources/References
-
-http://projecttemplate.net/architecture.html
+See the README files in the directories for details.
