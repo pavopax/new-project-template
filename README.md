@@ -6,21 +6,16 @@ Here is one way to organize your project folders:
 	/data
 	/docs
 	/output
-
 	README.md
-	(reports)
-	(shell script or similar describing all code)
-	
-
-Originally, this was meant for data science'y projects using mostly R and/or
-Python, but do what you want!
-
 
 # Advanced
 
 If you want more directories, see the `advanced` branch.
 
-
 # Inspirations/Resources/References
+
+The original insipration of this structure is for data science'y projects using
+mostly R and/or Python.
+
 
 http://projecttemplate.net/architecture.html
