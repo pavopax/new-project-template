@@ -1,7 +1,5 @@
 # A New Project Template
 
-*Self-note: piloting Boards on Google Chrome*
-
 Here is one way to organize your project folders:
 
 	/code
