@@ -1,5 +1,7 @@
 # A New Project Template
 
+> [Structure of the Repository. It’s Important.](https://docs.python-guide.org/writing/structure/)
+
 Here is one way to organize your project folders:
 
 	/code
@@ -21,3 +23,5 @@ mostly R and/or Python.
 
 
 http://projecttemplate.net/architecture.html
+
+https://docs.python-guide.org/writing/structure/
