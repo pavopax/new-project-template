@@ -1,6 +1,6 @@
 # A New Project Template
 
-> [Structure of the Repository. It’s Important.](https://docs.python-guide.org/writing/structure/)
+> [Structure of the Repository: it’s Important.](https://docs.python-guide.org/writing/structure/)
 
 Here is one way to organize your project folders:
 
@@ -20,7 +20,6 @@ For my personal project template which I use to initialize all of my personal an
 
 The original insipration of this structure is for data science'y projects using
 mostly R and/or Python.
-
 
 http://projecttemplate.net/architecture.html
 
