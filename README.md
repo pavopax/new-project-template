@@ -24,3 +24,5 @@ mostly R and/or Python.
 http://projecttemplate.net/architecture.html
 
 https://docs.python-guide.org/writing/structure/ ("Structure of the Repository: it’s Important.")
+
+https://kedro.readthedocs.io/en/latest/02_getting_started/04_hello_world.html (Scroll to "Project directory structure")
