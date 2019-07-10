@@ -9,6 +9,12 @@ Here is one way to organize your project folders:
 	/docs
 	/output
 	README.md
+	
+# Get started
+
+Just copy-paste the following command into your command-line:
+
+`mkdir -p code data docs output`
 
 # Advanced
 
