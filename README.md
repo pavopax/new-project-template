@@ -16,11 +16,9 @@ Just copy-paste the following command into your command-line:
 
 `mkdir -p code data docs output`
 
-# Advanced
+# More directories
 
 If you want more directories, see the `advanced` branch.
-
-For my personal project template which I use to initialize all of my personal analysis projects, see the `paul` branch. 
 
 # Inspirations/Resources/References
 
